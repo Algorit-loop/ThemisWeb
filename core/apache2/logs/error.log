@@ -1,0 +1,41 @@
+[Wed Mar 09 14:33:06.240269 2022] [mpm_winnt:notice] [pid 4400:tid 576] AH00455: Apache/2.4.41 (Win64) PHP/7.4.0 configured -- resuming normal operations
+[Wed Mar 09 14:33:06.240269 2022] [mpm_winnt:notice] [pid 4400:tid 576] AH00456: Server built: Aug 10 2019 13:33:27
+[Wed Mar 09 14:33:06.240269 2022] [core:notice] [pid 4400:tid 576] AH00094: Command line: 'C:\\themis-web-interface2\\core\\apache2\\bin\\httpd_z.exe -d C:/themis-web-interface2/core/apache2 -f C:\\themis-web-interface2\\core\\apache2\\conf\\httpd.conf -d C:\\themis-web-interface2\\core\\apache2'
+[Wed Mar 09 14:33:06.241270 2022] [mpm_winnt:notice] [pid 4400:tid 576] AH00418: Parent: Created child process 8592
+[Wed Mar 09 14:33:06.505716 2022] [mpm_winnt:notice] [pid 8592:tid 592] AH00354: Child: Starting 150 worker threads.
+[Wed Mar 09 17:58:22.765343 2022] [core:warn] [pid 4892:tid 528] AH00098: pid file C:/themis-web-interface/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 09 17:58:22.855905 2022] [mpm_winnt:notice] [pid 4892:tid 528] AH00455: Apache/2.4.41 (Win64) PHP/7.4.0 configured -- resuming normal operations
+[Wed Mar 09 17:58:22.856544 2022] [mpm_winnt:notice] [pid 4892:tid 528] AH00456: Server built: Aug 10 2019 13:33:27
+[Wed Mar 09 17:58:22.856544 2022] [core:notice] [pid 4892:tid 528] AH00094: Command line: 'C:\\themis-web-interface\\core\\apache2\\bin\\httpd_z.exe -d C:/themis-web-interface/core/apache2 -f C:\\themis-web-interface\\core\\apache2\\conf\\httpd.conf -d C:\\themis-web-interface\\core\\apache2'
+[Wed Mar 09 17:58:22.858547 2022] [mpm_winnt:notice] [pid 4892:tid 528] AH00418: Parent: Created child process 2324
+[Wed Mar 09 17:58:23.144491 2022] [mpm_winnt:notice] [pid 2324:tid 616] AH00354: Child: Starting 150 worker threads.
+[Wed Mar 09 18:22:37.290006 2022] [core:warn] [pid 1292:tid 548] AH00098: pid file C:/themis-web-interface/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 09 18:22:37.304019 2022] [mpm_winnt:notice] [pid 1292:tid 548] AH00455: Apache/2.4.41 (Win64) PHP/7.4.0 configured -- resuming normal operations
+[Wed Mar 09 18:22:37.304019 2022] [mpm_winnt:notice] [pid 1292:tid 548] AH00456: Server built: Aug 10 2019 13:33:27
+[Wed Mar 09 18:22:37.304019 2022] [core:notice] [pid 1292:tid 548] AH00094: Command line: 'C:\\themis-web-interface\\core\\apache2\\bin\\httpd_z.exe -d C:/themis-web-interface/core/apache2 -f C:\\themis-web-interface\\core\\apache2\\conf\\httpd.conf -d C:\\themis-web-interface\\core\\apache2'
+[Wed Mar 09 18:22:37.305521 2022] [mpm_winnt:notice] [pid 1292:tid 548] AH00418: Parent: Created child process 4112
+[Wed Mar 09 18:22:37.577809 2022] [mpm_winnt:notice] [pid 4112:tid 608] AH00354: Child: Starting 150 worker threads.
+[Wed Mar 09 18:39:33.845446 2022] [core:warn] [pid 8300:tid 492] AH00098: pid file C:/themis-web-interface/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 09 18:39:33.861991 2022] [mpm_winnt:notice] [pid 8300:tid 492] AH00455: Apache/2.4.41 (Win64) PHP/7.4.0 configured -- resuming normal operations
+[Wed Mar 09 18:39:33.861991 2022] [mpm_winnt:notice] [pid 8300:tid 492] AH00456: Server built: Aug 10 2019 13:33:27
+[Wed Mar 09 18:39:33.861991 2022] [core:notice] [pid 8300:tid 492] AH00094: Command line: 'C:\\themis-web-interface\\core\\apache2\\bin\\httpd_z.exe -d C:/themis-web-interface/core/apache2 -f C:\\themis-web-interface\\core\\apache2\\conf\\httpd.conf -d C:\\themis-web-interface\\core\\apache2'
+[Wed Mar 09 18:39:33.862992 2022] [mpm_winnt:notice] [pid 8300:tid 492] AH00418: Parent: Created child process 2644
+[Wed Mar 09 18:39:34.175770 2022] [mpm_winnt:notice] [pid 2644:tid 612] AH00354: Child: Starting 150 worker threads.
+[Wed Mar 09 21:44:20.938056 2022] [core:warn] [pid 1512:tid 520] AH00098: pid file C:/themis-web-interface/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 09 21:44:21.709103 2022] [mpm_winnt:notice] [pid 1512:tid 520] AH00455: Apache/2.4.41 (Win64) PHP/7.4.0 configured -- resuming normal operations
+[Wed Mar 09 21:44:21.709760 2022] [mpm_winnt:notice] [pid 1512:tid 520] AH00456: Server built: Aug 10 2019 13:33:27
+[Wed Mar 09 21:44:21.709760 2022] [core:notice] [pid 1512:tid 520] AH00094: Command line: 'C:\\themis-web-interface\\core\\apache2\\bin\\httpd_z.exe -d C:/themis-web-interface/core/apache2 -f C:\\themis-web-interface\\core\\apache2\\conf\\httpd.conf -d C:\\themis-web-interface\\core\\apache2'
+[Wed Mar 09 21:44:21.711767 2022] [mpm_winnt:notice] [pid 1512:tid 520] AH00418: Parent: Created child process 5388
+[Wed Mar 09 21:44:22.102860 2022] [mpm_winnt:notice] [pid 5388:tid 560] AH00354: Child: Starting 150 worker threads.
+[Thu Mar 10 00:08:42.276402 2022] [core:warn] [pid 8264:tid 544] AH00098: pid file C:/themis-web-interface/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 10 00:08:42.371170 2022] [mpm_winnt:notice] [pid 8264:tid 544] AH00455: Apache/2.4.41 (Win64) PHP/7.4.0 configured -- resuming normal operations
+[Thu Mar 10 00:08:42.371826 2022] [mpm_winnt:notice] [pid 8264:tid 544] AH00456: Server built: Aug 10 2019 13:33:27
+[Thu Mar 10 00:08:42.371826 2022] [core:notice] [pid 8264:tid 544] AH00094: Command line: 'C:\\themis-web-interface\\core\\apache2\\bin\\httpd_z.exe -d C:/themis-web-interface/core/apache2 -f C:\\themis-web-interface\\core\\apache2\\conf\\httpd.conf -d C:\\themis-web-interface\\core\\apache2'
+[Thu Mar 10 00:08:42.372830 2022] [mpm_winnt:notice] [pid 8264:tid 544] AH00418: Parent: Created child process 2004
+[Thu Mar 10 00:08:42.635460 2022] [mpm_winnt:notice] [pid 2004:tid 568] AH00354: Child: Starting 150 worker threads.
+[Thu Mar 10 00:33:18.771179 2022] [core:warn] [pid 4172:tid 552] AH00098: pid file C:/themis-web-interface/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 10 00:33:18.804394 2022] [mpm_winnt:notice] [pid 4172:tid 552] AH00455: Apache/2.4.41 (Win64) PHP/7.4.0 configured -- resuming normal operations
+[Thu Mar 10 00:33:18.804394 2022] [mpm_winnt:notice] [pid 4172:tid 552] AH00456: Server built: Aug 10 2019 13:33:27
+[Thu Mar 10 00:33:18.804394 2022] [core:notice] [pid 4172:tid 552] AH00094: Command line: 'C:\\themis-web-interface\\core\\apache2\\bin\\httpd_z.exe -d C:/themis-web-interface/core/apache2 -f C:\\themis-web-interface\\core\\apache2\\conf\\httpd.conf -d C:\\themis-web-interface\\core\\apache2'
+[Thu Mar 10 00:33:18.805394 2022] [mpm_winnt:notice] [pid 4172:tid 552] AH00418: Parent: Created child process 4760
+[Thu Mar 10 00:33:19.074681 2022] [mpm_winnt:notice] [pid 4760:tid 608] AH00354: Child: Starting 150 worker threads.
